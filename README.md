@@ -70,4 +70,4 @@ How Can I Get the Tool or Submit a Report? 📩
 Legal Notice ⚠️
 <p>
 This tool is intended only for legitimate reporting and moderation-related purposes. Users must provide truthful information and comply with Instagram Terms of Service, Community Standards, and applicable laws.
-Users are solely responsible for the reports they submit and for ensuring that their use of the service does not constitute harassment, abuse, spam, or manipulation of Instagram reporting systems.
+Users are solely responsible for the reports they submit and for ensuring that their use of the service does not constitute harassment, abuse, spam, or manipulation of Instagram reporting systems
